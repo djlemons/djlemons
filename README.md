@@ -41,6 +41,8 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
 
+<!--
+
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
   <a href="https://www.credly.com/badges/11ac16b1-2369-4756-94aa-ae56eaba8306/public_url" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" alt="SAS" width="75" height="75"/> </a>
@@ -48,3 +50,5 @@
   <a href="https://www.citiprogram.org/verify/?w61bfb7bf-f1c1-487f-8518-01e167d2e9d2-48837356" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/djlem/Downloads/CITI-Logo-2018-07-18/SVG/CITI-Logo.svg" alt="CITI" width="40" height="40"/> </a> 
   <a href="https://www.citiprogram.org/verify/?w76e2dad2-98cb-4096-b1f9-e7ce7435fe58-67886558" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/djlem/Downloads/CITI-Logo-2018-07-18/SVG/CITI-Logo.svg" alt="CITI" width="40" height="40"/> </a> 
 </p>
+
+-->
