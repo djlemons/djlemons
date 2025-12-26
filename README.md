@@ -8,8 +8,8 @@
   - **Program Evaluation of Community Health Workers in Uganda with Rose Academies**
 
 - 🌱 I’m currently learning:
-  - **Pooled Sampling Simulation Methods**
-  - **Bayesian Spatio-Temporal Modeling**
+  - **Pooled Sampling Simulation Methods for Tracking Diseases in Large Populations**
+  - **Bayesian Spatio-Temporal Modeling for Dealing with Suppressed Values in Health Data**
 
 - I have previous worked on:
   - **Compared Measurement Methods for Female Body Armor Fittings**
