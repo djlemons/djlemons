@@ -11,7 +11,7 @@
   - **Pooled Sampling Simulation Methods for Tracking Diseases in Large Populations**
   - **Bayesian Spatio-Temporal Modeling for Dealing with Suppressed Values in Health Data**
 
-- I have previous worked on:
+- Previous projects I have previous worked on are:
   - **Compared Measurement Methods for Female Body Armor Fittings**
   - **Sample Size and Power Analysis for NSF Proposal using Longitudinal Modeling in R**
   - **Epidemiology of Giardia and Cryptosporidium in Texas Hospitalizations**
