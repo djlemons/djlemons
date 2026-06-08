@@ -2,13 +2,11 @@
 <h3 align="center">A passionate Biostatistician from Texas</h3>
 
 - 🔭 I’m currently working on:
-  - **Epidemiology of Varroa in Honeybee population**
   - **Limiting Suicides After Natrual Disasters Through Public Health Policy**
   - **The Uses of AI Chatbots in the Training of New Doctors**
   - **Program Evaluation of Community Health Workers in Uganda with Rose Academies**
 
 - 🌱 I’m currently learning:
-  - **Pooled Sampling Simulation Methods for Tracking Diseases in Large Populations**
   - **Bayesian Spatio-Temporal Modeling for Dealing with Suppressed Values in Health Data**
 
 - Previous projects I have previous worked on are:
